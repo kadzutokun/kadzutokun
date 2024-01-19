@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aidar</a> 
+<h1 align="center">Hi there, I'm Aidar 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align = "center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" alt="Typing SVG" /></a>
