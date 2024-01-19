@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi there, I'm Aidar
-<h1><a href='t.me/kadzutokun'>Telegram</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1><a href='t.me/kadzutokun'>Telegram</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" margin-left: 25% alt="Typing SVG" / style = 'margin-left: 25%';></a>
