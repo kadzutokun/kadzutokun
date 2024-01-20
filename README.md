@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align = 'center'>Hi there, I'm Aidar
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<ul align = 'center'>
-<li align = 'center'><a href='https://t.me/kadzutokun/'>Telegram</a></li>
-</ul>
+<h3 align = 'center'><a href='https://t.me/kadzutokun/'>Telegram</a></h3>
 <br>
 <a href="https://git.io/typing-svg"><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" margin-left: 25% alt="Typing SVG" / style = 'margin-left: 25%';></a></h3>
