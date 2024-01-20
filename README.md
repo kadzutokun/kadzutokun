@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align = 'center'>Hi there, I'm Aidar
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<ul>
+<ul align = 'center'>
 <li align = 'center'><a href='https://t.me/kadzutokun/'>Telegram</a></li>
 </ul>
 <br>
