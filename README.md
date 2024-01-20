@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <li><a href='https://t.me/kadzutokun/'>Telegram</a></li>
 </ul>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" margin-left: 25% alt="Typing SVG" / style = 'margin-left: 25%';></a>
+<a href="https://git.io/typing-svg"><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" margin-left: 25% alt="Typing SVG" / style = 'margin-left: 25%';></a></h3>
