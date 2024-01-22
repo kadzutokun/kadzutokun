@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align = 'center'>Hi there, I'm Aidar
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align = 'center'><a href='https://t.me/kadzutokun/'>Telegram</a></h3>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<h3 align = 'center'><a href='https://t.me/kadzutokun/'>Telegram
+    <img src="https://img.shields.io/badge/Telegram-27A3E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a></h3>
 <br>
 <a href="https://git.io/typing-svg"><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer+from+Kazan" margin-left: 25% alt="Typing SVG" / style = 'margin-left: 25%';></a></h3>
