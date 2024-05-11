@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align = 'center'>Hi there, I'm Aidar
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align = 'center'><a href='https://t.me/kadzutokun/'>
     <img src="https://img.shields.io/badge/Telegram-27A3E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
